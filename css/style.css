@@ -1,0 +1,10 @@
+.header{
+    width: auto;
+    height: 50px;
+    background-color: blue;
+    border: solid black;
+    font-size: 37px;
+    font-family: monospace;
+    text-align: center;
+margin-bottom: 20px;
+}
